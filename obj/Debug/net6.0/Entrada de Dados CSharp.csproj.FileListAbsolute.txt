@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Entrada de Dados CSharp\bin\Debug\net6.0\Entrada de Dados CSharp.exe
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Entrada de Dados CSharp\bin\Debug\net6.0\Entrada de Dados CSharp.deps.json
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Entrada de Dados CSharp\bin\Debug\net6.0\Entrada de Dados CSharp.runtimeconfig.json
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Entrada de Dados CSharp\bin\Debug\net6.0\Entrada de Dados CSharp.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Entrada de Dados CSharp\bin\Debug\net6.0\ref\Entrada de Dados CSharp.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Entrada de Dados CSharp\bin\Debug\net6.0\Entrada de Dados CSharp.pdb
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Entrada de Dados CSharp\obj\Debug\net6.0\Entrada de Dados CSharp.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Entrada de Dados CSharp\obj\Debug\net6.0\Entrada de Dados CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Entrada de Dados CSharp\obj\Debug\net6.0\Entrada de Dados CSharp.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Entrada de Dados CSharp\obj\Debug\net6.0\Entrada de Dados CSharp.AssemblyInfo.cs
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Entrada de Dados CSharp\obj\Debug\net6.0\Entrada de Dados CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Entrada de Dados CSharp\obj\Debug\net6.0\Entrada de Dados CSharp.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Entrada de Dados CSharp\obj\Debug\net6.0\ref\Entrada de Dados CSharp.dll
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Entrada de Dados CSharp\obj\Debug\net6.0\Entrada de Dados CSharp.pdb
+C:\Users\Home\Desktop\Darlan\Analise e Desenvolvimento\Entrada de Dados CSharp\obj\Debug\net6.0\Entrada de Dados CSharp.genruntimeconfig.cache
